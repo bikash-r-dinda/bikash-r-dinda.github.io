@@ -1,13 +1,18 @@
 ---
 title: "Model independent parametrization of the late time cosmic acceleration: Constraints on the parameters from recent observations"
 collection: publications
-permalink: /publication/2019-01-01-model-independent-parametrization-of-the-late-time-cosmic-acceleration-constraints-on-the-parameters-from-recent-observations
-date: 2019-01-01
+category: manuscripts
+permalink: /publication/2019-08-01-model-independent-parametrization-of-the-late-time-cosmic-acceleration-constraints-on-the-parameters-from-recent-observations
+date: 2019-08-01
 venue: "Phys. Rev. D"
-citation: "Bikash Dinda, “Model independent parametrization of the late time cosmic acceleration: Constraints on the parameters from recent observations.” Phys. Rev. D, 2019."
+volume: "100"
+pages: "043528"
+citation: 'Bikash R. Dinda, "Model independent parametrization of the late time cosmic acceleration: Constraints on the parameters from recent observations." Phys. Rev. D, 100, 043528 (2019).'
 doi: "10.1103/PhysRevD.100.043528"
 arxiv: "1904.10418"
+paperurl: "https://arxiv.org/abs/1904.10418"
 url_pdf: "https://arxiv.org/pdf/1904.10418"
 ---
 
+Find on [INSPIRE-HEP](https://inspirehep.net/literature?q=arXiv%3A1904.10418){:target="_blank"}  
 Use [Google Scholar](https://scholar.google.com/scholar?q=Model+independent+parametrization+of+the+late+time+cosmic+acceleration:+Constraints+on+the+parameters+from+recent+observations){:target="_blank"}
