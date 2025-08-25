@@ -1,8 +1,11 @@
 ---
 title: "Model-independent reconstruction of the evolution of dark energy using Gaussian process regression"
 collection: talks
+type: "Conference Talk"
+permalink: /talks/2023-12-06-model-independent-reconstruction-of-the-evolution-of-dark-energy-using-gaussian-process-regression
+venue: "10th International Conference on Gravitation and Cosmology (ICGC), IIT Guwahati"
 date: 2023-12-06
-venue: "10th International Conference on Gravitation and Cosmology, IIT Guwahati, India"
+location: "Guwahati, Assam, India"
 ---
 
-*Delivered a talk on **Model-independent reconstruction of the evolution of dark energy using Gaussian process regression** at 10th International Conference on Gravitation and Cosmology, IIT Guwahati, India on 2023-12-06.*
+Conference presentation.

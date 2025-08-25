@@ -1,8 +1,11 @@
 ---
 title: "Signature of dark energy in galaxy power spectrum on the large cosmological scale and the weak lensing statistics"
 collection: talks
+type: "Seminar"
+permalink: /talks/2018-07-03-signature-of-dark-energy-in-galaxy-power-spectrum-on-the-large-cosmological-scale-and-the-weak-lensing-statistics
+venue: "SISSA"
 date: 2018-07-03
-venue: "SISSA, Trieste, Italy"
+location: "Trieste, Italy"
 ---
 
-*Delivered a talk on **Signature of dark energy in galaxy power spectrum on the large cosmological scale and the weak lensing statistics** at SISSA, Trieste, Italy on 2018-07-03.*
+Research seminar.

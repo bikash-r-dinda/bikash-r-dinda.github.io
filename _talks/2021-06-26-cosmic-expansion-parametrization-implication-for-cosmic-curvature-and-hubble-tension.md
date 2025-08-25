@@ -1,8 +1,11 @@
 ---
-title: "Cosmic expansion Parametrization: implication for cosmic curvature and Hubble tension"
+title: "Cosmic expansion parametrization: implication for cosmic curvature and Hubble tension"
 collection: talks
+type: "Online Seminar"
+permalink: /talks/2021-06-26-cosmic-expansion-parametrization-implication-for-cosmic-curvature-and-hubble-tension
+venue: "Indian Institute of Technology Madras"
 date: 2021-06-26
-venue: "Indian Institute of Technology Madras, India (online)"
+location: "Chennai, India (Online)"
 ---
 
-*Delivered a talk on **Cosmic expansion Parametrization: implication for cosmic curvature and Hubble tension** at Indian Institute of Technology Madras, India (online) on 2021-06-26.*
+Online seminar.

@@ -1,8 +1,11 @@
 ---
 title: "Dark Energy after DESI"
 collection: talks
-date: 2025-04-28
+type: "Colloquium"
+permalink: /talks/2025-04-28-dark-energy-after-desi
 venue: "Missouri University of Science & Technology"
+date: 2025-04-28
+location: "Rolla, MO, USA"
 ---
 
-*Delivered a talk on **Dark Energy after DESI** at Missouri University of Science & Technology on 2025-04-28.*
+Department colloquium.

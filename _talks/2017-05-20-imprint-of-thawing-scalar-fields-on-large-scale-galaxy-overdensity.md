@@ -1,8 +1,11 @@
 ---
 title: "Imprint of thawing scalar fields on large scale galaxy overdensity"
 collection: talks
+type: "Conference Talk"
+permalink: /talks/2017-05-20-imprint-of-thawing-scalar-fields-on-large-scale-galaxy-overdensity
+venue: "29th IAGRG Meeting, IIT Guwahati"
 date: 2017-05-20
-venue: "29th IAGRG meeting, IIT Guwahati, India"
+location: "Guwahati, India"
 ---
 
-*Delivered a talk on **Imprint of thawing scalar fields on large scale galaxy overdensity** at 29th IAGRG meeting, IIT Guwahati, India on 2017-05-20.*
+Conference presentation.
