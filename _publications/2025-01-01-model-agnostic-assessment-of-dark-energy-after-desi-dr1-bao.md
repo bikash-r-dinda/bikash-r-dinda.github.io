@@ -5,7 +5,9 @@ category: manuscripts
 permalink: /publication/2025-01-01-model-agnostic-assessment-of-dark-energy-after-desi-dr1-bao
 date: 2025-01-01
 venue: "JCAP"
-citation: 'Bikash Dinda, Roy Maartens, "Model-agnostic assessment of dark energy after DESI DR1 BAO." JCAP, 2025.'
+volume: "01"
+pages: "120"
+citation: 'Bikash R. Dinda, Roy Maartens, "Model-agnostic assessment of dark energy after DESI DR1 BAO." JCAP, 01, 120 (2025).'
 doi: "10.1088/1475-7516/2025/01/120"
 arxiv: "2407.17252"
 paperurl: "https://arxiv.org/abs/2407.17252"
