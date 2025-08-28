@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Bikash Ranjan Dinda"
   pronouns         : "Ph.D."
-  bio              : "Postdoc at UWC"
+  #bio              : "Postdoc at UWC"
   location         : "Cape Town, South Africa"
   employer         : "University of the Western Cape"
   uri              : "https://bikash-r-dinda.github.io"
