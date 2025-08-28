@@ -5,11 +5,10 @@ permalink: /conference/
 author_profile: true
 ---
 
-{% if site.conferencemap_link == true %}
-<p style="text-decoration:underline;"><a href="/conferencemap.html">See a map of all the conferences I've attended!</a></p>
-{% endif %}
-
 {% for post in site.conference reversed %}
-  {% include archive-single-conference.html %}
+  <h2>{{ post.title }}</h2>
+  <p><strong>Venue:</strong> {{ post.venue }}</p>
+  <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+  <p>{{ post.content }}</p>
+  <hr>
 {% endfor %}
-
