@@ -8,7 +8,7 @@ redirect_from:
 
 <h1><strong>Welcome</strong></h1>
 
-I’m **Bikash Ranjan Dinda**, a Postdoctoral Research Fellow at the **University of the Western Cape**, Cape Town, South Africa.
+I’m a Postdoctoral Research Fellow at the **University of the Western Cape**, Cape Town, South Africa.
 My work explores **late-time cosmology, dark energy, and the applications of machine learning in cosmology**.  
 
 I am broadly interested in the dynamics of the Universe on large scales, structure formation, 21 cm cosmology, weak lensing, and inflation.  
