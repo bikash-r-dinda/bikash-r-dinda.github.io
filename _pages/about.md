@@ -36,7 +36,7 @@ My current research focuses on combining **theoretical modeling, statistical inf
 ---
 
 ## Recent Updates
-- My article ‘Minimal model-dependent constraints on cosmological nuisance parameters and cosmic curvature from combinations of cosmological data’ (Int. J. Mod. Phys. D 32 (2023) 11, 2350079) has been selected as an Editor’s Pick on ResearchGate. Grateful for this recognition!
+- My article ‘Minimal model-dependent constraints on cosmological nuisance parameters and cosmic curvature from combinations of cosmological data’ (Int. J. Mod. Phys. D 32 (2023) 11, 2350079) has been selected as an Editor’s Pick.
 - Developing model-agnostic methods to test dark energy evolution using DESI, SNe, and CMB data. 
 
 ---
