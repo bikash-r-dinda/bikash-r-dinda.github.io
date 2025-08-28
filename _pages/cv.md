@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Cosmology, Centre for Theoretical Physics, Jamia Millia Islamia, New Delhi, 2019  
+  * Thesis: *Understanding The Accelerating Universe: Model building and Observational Signatures*  
+  * Supervisor: Prof. Anjan Ananda Sen  
+
+* M.Sc. in Physics, Indian Institute of Technology Bombay, 2012  
+  * Special Project: Cosmology  
+  * Supervisor: Prof. Urjit Yajnik  
+
+* B.Sc. in Physics (Honours), University of Calcutta, 2010  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 – Present: Postdoctoral Researcher  
+  * Department of Physics & Astronomy, University of the Western Cape, South Africa  
+  * Mentor: Prof. Roy Maartens  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 – 2024: Postdoctoral Researcher  
+  * Department of Physical Sciences, IISER Kolkata, India  
+  * Mentor: Prof. Narayan Banerjee  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2019 – 2021: Postdoctoral Researcher  
+  * Department of Theoretical Physics, Tata Institute of Fundamental Research (TIFR), Mumbai, India  
+  * Mentor: Prof. Subhabrata Majumdar  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python (main), Fortran (basic), C (basic)  
+* Cosmological Tools: CAMB, CLASS, Cobaya, emcee, PyMultiNest, PyTorch, scikit-learn, GPy, Astropy, HMcode, Cosmic Emulator, CosmicPy, iCosmo  
+* Research Areas: Late-time cosmology, Dark Energy, Machine Learning in Cosmology, 21 cm Cosmology, Large-Scale Structure Formation, Weak Lensing, Inflation  
 
 Publications
 ======
@@ -61,4 +61,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for *MNRAS Letters, Physics of the Dark Universe, ApJ Letters, Journal of Astrophysics and Astronomy, Modern Physics Letters A*  
+* Awarded **SERB-NPDF Fellowship (2024)**  
+* Balzan Fellowship, Centre for Cosmological Studies Program (2018–2019)  
+* Senior Research Fellow (CSIR, India, 2014–2017)  
+* Junior Research Fellow (CSIR, India, 2012–2014)  
