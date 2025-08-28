@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Peer Review Activity"
+permalink: /peer_review/
+author_profile: true
+---
+
+{% for post in site.peer_review reversed %}
+  <h2>{{ post.title }}</h2>
+  <p><strong>Venue:</strong> {{ post.venue }}</p>
+  <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+  <p>{{ post.content }}</p>
+  <hr>
+{% endfor %}
+
