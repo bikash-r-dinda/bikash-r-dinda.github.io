@@ -9,10 +9,7 @@ redirect_from:
 <h1><strong>Welcome</strong></h1>
 
 I’m a Postdoctoral Research Fellow at the **University of the Western Cape**, Cape Town, South Africa.
-My work explores **late-time cosmology, dark energy, and the applications of machine learning in cosmology**.  
-
-I am broadly interested in the dynamics of the Universe on large scales, structure formation, 21 cm cosmology, weak lensing, and inflation.  
-My current research focuses on combining **theoretical modeling, statistical inference, and machine learning tools** to understand the nature of cosmic acceleration.  
+My work explores **late-time cosmology, dark energy, and the applications of machine learning in cosmology**.
 
 ---
 
