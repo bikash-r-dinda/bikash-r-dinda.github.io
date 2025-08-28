@@ -1,6 +1,7 @@
 ---
 title: "Model-Agnostic Dark Energy Constraints from DESI DR1"
 excerpt: "Poster summarizing key findings from arXiv:2407.17252<br/><img src='/images/Main_Poster.jpg'>"
+date: 2024-11-27
 collection: portfolio
 ---
 
