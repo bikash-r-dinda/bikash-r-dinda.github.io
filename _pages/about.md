@@ -41,5 +41,5 @@ My work explores **late-time cosmology, dark energy, and the applications of mac
 - 🧾 [Peer Review Activity](/peer_review/)  
 - 🗓️ [Conferences & Symposia Attended](/conference/)
 
-This site is built with the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is continuously updated with my latest work, publications, and academic activities.
+This site is built with the [Academic Pages template](https://github.com/academicpages/academicpages.github.io).
 
