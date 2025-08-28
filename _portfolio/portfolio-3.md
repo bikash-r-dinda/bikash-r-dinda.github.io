@@ -1,6 +1,7 @@
 ---
 title: "Signature of Dark Energy/Modified Gravity in Galaxy Power Spectrum"
 excerpt: "Poster exploring large-scale cosmological imprints of dark energy and modified gravity<br/><img src='/images/Dinda_poster.jpg'>"
+date: 2018-07-03
 collection: portfolio
 ---
 
@@ -15,4 +16,3 @@ This poster presents theoretical insights into how dark energy and modified grav
 🧠 These studies emphasize that while standard Newtonian approximations suffice on small scales, the largest cosmological scales require a fully relativistic treatment to uncover subtle imprints of dark energy or modified gravity.
 
 📄 **Download full poster**: [Dinda_poster.pdf](/files/Dinda_poster.pdf)
-
