@@ -1,152 +1,248 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Bikash Ranjan Dinda",
+    "email": "bikashd18@gmail.com",
+    "phone": "+91 9971817759 / +27 083 551 4640",
+    "website": "https://bikash-r-dinda.github.io",
+    "summary": "Postdoctoral Researcher at University of the Western Cape. Research interests: Late-Time Cosmology, Dark Energy, Machine Learning, 21 cm Cosmology, Large-Scale Structure Formation, Weak Lensing, Inflation.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Unit 5, Paul House, 17 Wilkinson Street, 17B Dean Street, Newlands",
+      "postalCode": "7700",
+      "city": "Cape Town",
+      "countryCode": "ZA",
+      "region": "Western Cape"
     },
     "profiles": [
       {
+        "network": "InspireHEP",
+        "username": "1467904",
+        "url": "https://inspirehep.net/authors/1467904"
+      },
+      {
+        "network": "arXiv",
+        "username": "B. R. Dinda",
+        "url": "https://arxiv.org/search/astro-ph?searchtype=author&query=Dinda,+B+R"
+      },
+      {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Ks5UD7QAAAAJ",
+        "url": "https://scholar.google.com/citations?user=Ks5UD7QAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0001-5432-667X",
+        "url": "https://orcid.org/0000-0001-5432-667X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "bikash-r-dinda",
+        "url": "https://github.com/bikash-r-dinda"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of the Western Cape",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Postdoc in Cosmology under Prof. Roy Maartens.",
+      "location": "Cape Town, South Africa"
+    },
+    {
+      "company": "Indian Institute of Science Education and Research (IISER) Kolkata",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Postdoc in Cosmology under Prof. Narayan Banerjee.",
+      "location": "Kolkata, India"
+    },
+    {
+      "company": "Tata Institute of Fundamental Research (TIFR) Mumbai",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Postdoc in Cosmology under Prof. Subhabrata Majumdar.",
+      "location": "Mumbai, India"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Jamia Millia Islamia, Centre for Theoretical Physics",
+      "area": "Ph.D. in Cosmology, Physics",
+      "studyType": "Ph.D.",
+      "startDate": "2012",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Indian Institute of Technology, Bombay",
+      "area": "M.Sc. in Physics (Cosmology project)",
+      "studyType": "M.Sc.",
+      "startDate": "2010",
       "endDate": "2012",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Calcutta",
+      "area": "B.Sc. in Physics (Honours)",
+      "studyType": "B.Sc.",
+      "startDate": "2006",
+      "endDate": "2010",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Python", "Fortran (basic)", "C (basic)"]
+    },
+    {
+      "name": "Cosmological Tools",
+      "level": "Advanced",
+      "keywords": ["CAMB", "CLASS", "Cobaya", "emcee", "PyMultiNest", "PyTorch", "scikit-learn", "GPy", "Astropy", "HMcode", "Cosmic Emulator", "CosmicPy", "iCosmo"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cosmology",
+      "keywords": ["Dark Energy", "Large-Scale Structure", "Weak Lensing", "Inflation", "21 cm Cosmology"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Gaussian Process Regression", "Artificial Neural Networks", "Bayesian Inference"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Anjan Ananda Sen",
+      "reference": "Centre for Theoretical Physics, Jamia Millia Islamia, New Delhi, India"
+    },
+    {
+      "name": "Prof. Roy Maartens",
+      "reference": "Department of Physics & Astronomy, University of the Western Cape, South Africa"
+    },
+    {
+      "name": "Prof. Narayan Banerjee",
+      "reference": "Department of Physical Sciences, IISER Kolkata, India"
+    },
+    {
+      "name": "Prof. Marc Kamionkowski",
+      "reference": "Johns Hopkins University, USA"
+    },
+    {
+      "name": "Prof. Tirthankar Roy Choudhury",
+      "reference": "NCRA-TIFR, Pune, India"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Physical vs phantom dark energy after DESI: thawing quintessence in a curved background",
+      "publisher": "MNRAS Letters",
+      "releaseDate": "2025-06-01",
+      "website": "https://doi.org/10.1093/mnrasl/slaf063",
+      "summary": "Thawing quintessence models in curved universes compared with DESI data."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Cosmic curvature on large-scale structures with homogeneous dark energy",
+      "publisher": "Phys. Rev. D",
+      "releaseDate": "2025-05-01",
+      "website": "https://doi.org/10.1103/jbkz-91yq",
+      "summary": "Constraints on cosmic curvature from LSS with homogeneous dark energy."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Model-agnostic assessment of dark energy after DESI DR1 BAO",
+      "publisher": "JCAP",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1088/1475-7516/2025/01/120",
+      "summary": "Non-parametric assessment of dark energy using DESI BAO."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Improved null tests of ΛCDM and FLRW in light of DESI DR2",
+      "publisher": "JCAP",
+      "releaseDate": "2025-08-01",
+      "website": "https://doi.org/10.1088/1475-7516/2025/08/018",
+      "summary": "New consistency tests of ΛCDM using DESI DR2."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Is Phantom Crossing Real?",
+      "event": "University of the Western Cape",
+      "date": "2025-08-13",
+      "location": "Cape Town, South Africa",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Model-Agnostic Assessment of Dark Energy after DESI DR1 BAO",
+      "event": "COLOURS Workshop, Institut Pascal",
+      "date": "2025-06-10",
+      "location": "Paris, France",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Dark Energy after DESI",
+      "event": "Missouri University of Science & Technology",
+      "date": "2025-04-28",
+      "location": "Rolla, USA",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Improved null tests of ΛCDM and FLRW in light of DESI DR2",
+      "event": "Missouri University of Science & Technology",
+      "date": "2025-04-21",
+      "location": "Rolla, USA",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "General Relativity",
+      "institution": "St. Xavier’s College, Department of Physics",
+      "date": "2021-01-01",
+      "role": "Postgraduate course",
+      "description": "Taught MSc Physics students tensor calculus, geodesics, Einstein’s field equations, and cosmology/black hole applications."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
+      "course": "Quantum Field Theory (Teaching Assistant)",
+      "institution": "Centre for Theoretical Physics, Jamia Millia Islamia",
       "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "role": "Postgraduate coursework support",
+      "description": "Assisted in coursework and problem-solving sessions."
+    },
+    {
+      "course": "Quantum Field Theory (Teaching Assistant)",
+      "institution": "Centre for Theoretical Physics, Jamia Millia Islamia",
+      "date": "2014-01-01",
+      "role": "Postgraduate coursework support",
+      "description": "Assisted in coursework and problem-solving sessions."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Cosmology Projects",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://bikash-r-dinda.github.io",
+      "description": "Research on dark energy, machine learning in cosmology, and large-scale structure formation."
     }
   ]
 }
