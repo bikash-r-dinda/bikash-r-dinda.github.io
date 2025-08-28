@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bikash Ranjan Dinda"
-  pronouns         : "he/him"
+  pronouns         : "Ph.D."
   bio              : "Postdoc at the University of the Western Cape. My work explores late-time cosmology, dark energy, and machine learning applications in cosmology and astrophysics."
   location         : "Cape Town, South Africa"
   employer         : "University of the Western Cape"
@@ -91,7 +91,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
