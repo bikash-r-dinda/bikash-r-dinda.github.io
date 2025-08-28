@@ -227,6 +227,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  peer_review:
+    output: true
+    permalink: /:collection/:path/
+  conference:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
