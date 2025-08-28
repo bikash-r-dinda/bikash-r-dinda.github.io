@@ -18,10 +18,11 @@ My current research focuses on combining **theoretical modeling, statistical inf
 ---
 
 ## Research Interests
-- Late-time cosmology and dark energy  
+- Late-time cosmology, dark energy, and modified gravity
 - 21 cm cosmology and large-scale structure formation  
-- Machine learning applications in astrophysics  
-- Weak lensing and inflationary models  
+- Machine learning applications in cosmology and astrophysics  
+- Weak lensing
+- inflationary models  
 
 ---
 
@@ -35,8 +36,8 @@ My current research focuses on combining **theoretical modeling, statistical inf
 ---
 
 ## Recent Updates
-- Accepted paper in *[Phys. Rev. D](https://journals.aps.org/prd/)* on inflationary cosmology.  
-- Ongoing work on machine learning pipelines for weak lensing analysis.  
+- My article ‘Minimal model-dependent constraints on cosmological nuisance parameters and cosmic curvature from combinations of cosmological data’ (Int. J. Mod. Phys. D 32 (2023) 11, 2350079) has been selected as an Editor’s Pick on ResearchGate. Grateful for this recognition!
+- Developing model-agnostic methods to test dark energy evolution using DESI, SNe, and CMB data. 
 
 ---
 
