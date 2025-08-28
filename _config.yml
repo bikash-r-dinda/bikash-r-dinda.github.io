@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Bikash R. Dinda / Cosmology Research"
 title_separator          : "-"
 name                     : &name "Bikash Ranjan Dinda"
-description              : &description "Postdoctoral researcher in cosmology, specializing in dark energy and machine learning in cosmology"
+description              : &description "Postdoc at UWC"
 url                      : https://bikash-r-dinda.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bikash-r-dinda/bikash-r-dinda.github.io"
