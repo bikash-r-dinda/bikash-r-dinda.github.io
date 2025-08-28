@@ -18,7 +18,7 @@ My work explores **late-time cosmology, dark energy, and the applications of mac
 - 21 cm cosmology and large-scale structure formation  
 - Machine learning applications in cosmology and astrophysics  
 - Weak lensing
-- inflationary models  
+- Inflationary models  
 
 ---
 
