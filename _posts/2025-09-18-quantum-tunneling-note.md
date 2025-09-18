@@ -1,5 +1,5 @@
 ---
-title: "Quantum Tunneling: Probability Current and Amplitude Decay in Region II"
+title: "Quantum Tunneling"
 date: 2025-09-18
 permalink: /posts/2025/09/quantum-tunneling-note/
 tags:
