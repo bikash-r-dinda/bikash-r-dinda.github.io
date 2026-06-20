@@ -61,7 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for *MNRAS Letters, Physics of the Dark Universe, ApJ Letters, Journal of Astrophysics and Astronomy, Modern Physics Letters A*  
+* Reviewer for *Nature Astronomy, JCAP, MNRAS Letters, Physics of the Dark Universe, ApJ Letters, Journal of Astrophysics and Astronomy, EPJC, Modern Physics Letters A*  
 * Awarded **SERB-NPDF Fellowship (2024)**  
 * Balzan Fellowship, Centre for Cosmological Studies Program (2018–2019)  
 * Senior Research Fellow (CSIR, India, 2014–2017)  
